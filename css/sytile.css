@@ -129,15 +129,9 @@ a {
 }
 
 .whatsapp-link img {
-  position: relative;
   width: clamp(24px, 6vw, 32px);
   height: clamp(24px, 6vw, 32px);
   margin-right: 2vw;
-  left: -25px;
-}
-
-.whatsapp-link span {
-  margin-left: -50px;
 }
 
 /* Footer - Estilo base */
